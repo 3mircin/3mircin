@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Tu Nombre]
+# Hi 👋, I'm Emir Lujan
 
 I am a Computer Engineering student from Mexico who loves systems, automation and networks.
 
