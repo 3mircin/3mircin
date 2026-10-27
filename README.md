@@ -16,6 +16,7 @@ I am a Computer Engineering student from Mexico who loves systems, automation an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 <img src="https://cdn.simpleicons.org/wireshark/167E6F" width="40" height="40" alt="Wireshark" />
   <img src="https://cdn.simpleicons.org/cisco/049FD9" width="40" height="40" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/bash/4EAA25" width="40" height="40" alt="Bash" />
 </p>
 
 ---
