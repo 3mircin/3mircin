@@ -3,8 +3,8 @@
 I am a Computer Engineering student from Mexico who loves systems, automation and networks.
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=ide&logoColor=white)](https://www.linkedin.com/in/cristian-emir-lujan-de-la-rosa-281a37365/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/emirjj.c/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-emir-lujan-de-la-rosa-281a37365/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/emirjj.c/)
 
 ### Languages and Tools:
 <p align="left">
@@ -23,10 +23,7 @@ I am a Computer Engineering student from Mexico who loves systems, automation an
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3mircin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3mircin&show_icons=true&theme=tokyonight&hide_border=true" alt="Emir's GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mircin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=3mircin&show_icons=true&theme=dark)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mircin&theme=tokyonight&hide_border=true" />
-</p>
-
