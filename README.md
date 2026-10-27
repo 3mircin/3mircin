@@ -20,10 +20,10 @@ I am a Computer Engineering student from Mexico who loves systems, automation an
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3mircin&show_icons=true&theme=tokyonight&hide_border=true" alt="Emir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mircin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mircin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
