@@ -29,3 +29,4 @@ I am a Computer Engineering student from Mexico who loves systems, automation an
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mircin&theme=tokyonight&hide_border=true" />
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3mircin&layout=compact&theme=dark)
